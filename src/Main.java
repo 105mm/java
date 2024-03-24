@@ -8,6 +8,7 @@ public class Main {
         System.out.println("안녕하세요");
         System.out.println("123");
 
+
         System.out.print("ㅎ2");System.out.print("ㅎ2");
     }
 }
