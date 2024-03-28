@@ -12,6 +12,16 @@ public class DataType01 {
 
         char c1 = '가';
         char c2 = "가"; // 오류
-        String c3 = "자바"; //
+        String s1;
+        s1 = "java";
+        s1 = 'a'; // 오류
+        s1 = "a";
+
+        int c = 3;
+        double d = 5.5;
+        c = (int)d; // 강제형변환
+        System.out.println(c);
     }
+
+
 }
