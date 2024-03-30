@@ -20,6 +20,7 @@ public class DataType01 {
         int c = 3;
         double d = 5.5;
         c = (int)d; // 강제형변환
+
         System.out.println(c);
     }
 
