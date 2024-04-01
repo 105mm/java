@@ -5,6 +5,7 @@ public class DataType01 {
         byte n1 = 127; // -128 ~ 127
         short n2 = 30000; // -32768 ~ 32767
 
+
         boolean b1 = true;
         boolean b2 = false;
         boolean b3 = 10; // 오류
