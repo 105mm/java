@@ -8,14 +8,14 @@ public class DataType01 {
 
         boolean b1 = true;
         boolean b2 = false;
-        boolean b3 = 10; // 오류
+        // boolean b3 = 10; // 오류
 
 
         char c1 = '가';
-        char c2 = "가"; // 오류
+        // char c2 = "가"; // 오류
         String s1;
         s1 = "java";
-        s1 = 'a'; // 오류
+        // s1 = 'a'; // 오류
         s1 = "a";
 
         int c = 3;
